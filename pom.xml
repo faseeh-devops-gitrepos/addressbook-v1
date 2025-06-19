@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.preethidevops.tutorial</groupId>
   <artifactId>addressbook</artifactId>
-  <version>7.0</version>
+  <version>8.0</version>
   <packaging>war</packaging>
   <name>Vaadin Addressbook example</name>
 
